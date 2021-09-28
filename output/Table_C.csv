@@ -1,0 +1,11 @@
+Phylogeny,Grammatical coding,logL,logL0,LR (lambda),p-value (lambda),K,p-value (K)
+World,Nominal words,149.34,111.5,75.68,0,0.73,0
+World,Verbs,195.07,145.31,99.52,0,0.9,0
+Austronesian,Nominal words,27.75,26.63,2.24,0.13,0.86,0.03
+Austronesian,Verbs,37.66,37.13,1.06,0.3,0.78,0.05
+Sino-Tibetan,Nominal words,7.53,6.12,2.82,0.09,0.81,0.04
+Sino-Tibetan,Verbs,9.87,9.87,0,1,0.54,0.18
+Indo-European 1,Nominal words,14.44,14,0.87,0.35,0.49,0.11
+Indo-European 1,Verbs,20.64,20.48,0.32,0.57,0.27,0.6
+Indo-European 2,Nominal words,13.45,10.01,6.88,0.01,1.06,0.01
+Indo-European 2,Verbs,23.21,20.33,5.77,0.02,0.93,0.01

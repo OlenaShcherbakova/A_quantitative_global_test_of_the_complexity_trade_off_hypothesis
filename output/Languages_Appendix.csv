@@ -1,0 +1,245 @@
+"Name","Glottocode","Family_ID","Nominal_words_score","Verbal_score"
+"Abkhaz","abkh1244","abkh1242",0.51,0.79
+"Abun","abun1252","",0.28,0.47
+"Achi","achi1256","maya1287",0.38,0.76
+"Adang","adan1251","timo1261",0.28,0.6
+"Afar","afar1241","afro1255",0.38,0.78
+"Agob-Ende-Kawam","agob1244","paho1240",0.4,0.81
+"Akabea","akab1249","grea1241",0.38,0.72
+"Amarakaeri","amar1274","hara1260",0.4,0.74
+"Ancient Greek","anci1242","indo1319",0.72,0.68
+"Aneityum","anei1239","aust1307",0.5,0.59
+"Araki","arak1252","aust1307",0.25,0.48
+"Arapaho","arap1274","algi1248",0.26,0.83
+"'Are'are","area1240","aust1307",0.3,0.69
+"Argobba","argo1244","afro1255",0.56,0.62
+"Atong (India)","aton1241","sino1245",0.33,0.58
+"Au","auuu1241","nucl1708",0.16,0.52
+"Awetí","awet1244","tupi1275",0.15,0.82
+"Axamb","axam1237","aust1307",0.43,0.71
+"Baima","baim1244","sino1245",0.05,0.49
+"Paluai","balu1257","aust1307",0.35,0.59
+"Barok","baro1253","aust1307",0.35,0.8
+"Riuk Bekati'","beka1241","aust1307",0.35,0.65
+"Shidong Biao","biao1253","taik1256",0.13,0.45
+"Bimin","bimi1240","nucl1709",0.46,0.78
+"Bola","bola1250","aust1307",0.3,0.71
+"Bororo","boro1282","boro1281",0.28,0.53
+"Bugan","buga1247","aust1305",0.05,0.49
+"Bumthangkha","bumt1240","sino1245",0.45,0.44
+"Burji","burj1242","afro1255",0.7,0.78
+"Burunge","buru1320","afro1255",0.24,0.7
+"Car Nicobarese","carn1240","aust1305",0.28,0.74
+"Cemuhî","cemu1238","aust1307",0.51,0.7
+"Chaldean Neo-Aramaic","chal1275","afro1255",0.6,0.76
+"Chamorro","cham1312","aust1307",0.22,0.76
+"Chipewyan","chip1261","atha1245",0.1,0.81
+"Chong of Chanthaburi","chon1284","aust1305",0.03,0.47
+"Chuj","chuj1250","maya1287",0.21,0.78
+"Chukchi","chuk1273","chuk1271",0.38,0.82
+"Chuvash","chuv1255","turk1311",0.42,0.68
+"Coptic","copt1239","afro1255",0.49,0.44
+"Cowlitz","cowl1242","sali1255",0.41,0.74
+"Crimean Tatar","crim1257","turk1311",0.45,0.7
+"Crow","crow1244","siou1252",0.35,0.93
+"Czech","czec1258","indo1319",0.52,0.7
+"Dakaka","daka1243","aust1307",0.45,0.44
+"Dazaga","daza1242","saha1256",0.45,0.55
+"Degema","dege1246","atla1278",0.2,0.68
+"Digo","digo1243","atla1278",0.34,0.88
+"Dimasa","dima1251","sino1245",0.35,0.57
+"Jaminjung-Ngaliwurru","djam1255","mirn1241",0.42,0.68
+"Djeebbana","djee1236","mani1293",0.49,0.74
+"Dusner","dusn1237","aust1307",0.38,0.21
+"Eastern Lawa","east2330","aust1305",0.03,0.55
+"Eastern Kayah","east2342","sino1245",0.03,0.52
+"East Kewa","east2516","nucl1709",0.5,0.82
+"Emai-Iuleha-Ora","emai1241","atla1278",0.28,0.55
+"Enu","enuu1235","sino1245",0.03,0.42
+"Estonian","esto1258","ural1272",0.25,0.67
+"Eyak","eyak1241","atha1245",0.39,0.68
+"Faroese","faro1244","indo1319",0.62,0.68
+"Finnish","finn1318","ural1272",0.45,0.57
+"Fur","furr1244","fura1235",0.35,0.57
+"Futuna-Aniwa","futu1245","aust1307",0.58,0.58
+"Gayo","gayo1244","aust1307",0.15,0.64
+"Geba Karen","geba1237","sino1245",0.23,0.57
+"Gheg Albanian","gheg1238","indo1319",0.47,0.69
+"Ha","haaa1252","atla1278",0.29,0.81
+"Hadza","hadz1240","",0.32,0.68
+"Halkomelem","halk1245","sali1255",0.4,0.72
+"Herero","here1253","atla1278",0.34,0.79
+"Huastec","huas1242","maya1287",0.28,0.79
+"Huichol","huic1243","utoa1244",0.32,0.93
+"Iatmul","iatm1242","nduu1242",0.44,0.78
+"Icelandic","icel1247","indo1319",0.65,0.65
+"Iduna","idun1242","aust1307",0.32,0.78
+"Ingrian","ingr1248","ural1272",0.45,0.55
+"Irish","iris1253","indo1319",0.64,0.63
+"Itzá","itza1241","maya1287",0.44,0.78
+"Kachama-Ganjule-Haro","kach1284","gong1255",0.66,0.7
+"Kagulu","kagu1239","atla1278",0.14,0.79
+"Kaike","kaik1246","sino1245",0.4,0.74
+"Kalaallisut","kala1399","eski1264",0.35,0.87
+"Oirad-Kalmyk-Darkhat","kalm1243","mong1349",0.32,0.61
+"Karelian","kare1335","ural1272",0.45,0.55
+"Kashmiri","kash1277","indo1319",0.46,0.78
+"Katso","kats1235","sino1245",0.05,0.52
+"Kayan Lahwi","kaya1315","sino1245",0.15,0.39
+"Ket","kett1243","yeni1252",0.43,0.82
+"Khasi","khas1269","aust1305",0.24,0.59
+"Kinnauri","kinn1249","sino1245",0.38,0.8
+"Kombai","komb1274","nucl1709",0.1,0.71
+"Koorete","koor1239","gong1255",0.54,0.7
+"Korean","kore1280","kore1284",0.3,0.68
+"Koromfé","koro1298","atla1278",0.39,0.47
+"Kuku-Yalanji","kuku1273","pama1250",0.38,0.53
+"Nêlêmwa-Nixumwak","kuma1276","aust1307",0.34,0.63
+"Kunbarlang","kunb1251","gunw1250",0.31,0.75
+"Kwara'ae","kwar1239","aust1307",0.25,0.68
+"Kxoe","kxoe1243","khoe1240",0.51,0.64
+"Lamaholot","lama1277","aust1307",0.23,0.45
+"Latin","lati1261","indo1319",0.52,0.68
+"Laven","lave1248","aust1305",0.08,0.5
+"Lavukaleve","lavu1241","",0.65,0.72
+"Lega-Shabunda","lega1249","atla1278",0.26,0.85
+"Lembena","lemb1266","nucl1709",0.45,0.82
+"Lenakel","lena1238","aust1307",0.32,0.55
+"Lezgian","lezg1247","nakh1245",0.32,0.63
+"Liv","livv1244","ural1272",0.25,0.67
+"Loniu","loni1238","aust1307",0.38,0.65
+"Luiseno-Juaneño","luis1253","utoa1244",0.38,0.82
+"Lule Saami","lule1254","ural1272",0.45,0.63
+"Tirax","maee1241","aust1307",0.2,0.57
+"Maybrat-Karon","maib1239","",0.16,0.74
+"Maisin","mais1250","aust1307",0.2,0.68
+"Malayalam","mala1464","drav1251",0.38,0.64
+"Manange","mana1288","sino1245",0.52,0.4
+"Manambu","mana1298","nduu1242",0.39,0.82
+"Mandarin Chinese","mand1415","sino1245",0.03,0.45
+"Mangarrayi","mang1381","mang1423",0.71,0.74
+"Maori","maor1246","aust1307",0.32,0.65
+"Mapudungun","mapu1245","arau1255",0.33,0.83
+"Marathi","mara1378","indo1319",0.46,0.72
+"Maranunggu","mara1386","west2434",0.2,0.55
+"Marghi Central","marg1265","afro1255",0.35,0.79
+"Maricopa","mari1440","coch1271",0.3,0.89
+"Martuthunira","mart1255","pama1250",0.6,0.69
+"Maru","maru1249","sino1245",0.1,0.42
+"Matukar","matu1261","aust1307",0.3,0.7
+"Mawng","maun1240","iwai1246",0.37,0.68
+"Maxakalí","maxa1247","nucl1710",0.25,0.38
+"Mayogo","mayo1261","atla1278",0.05,0.55
+"Mbula","mbul1263","aust1307",0.35,0.64
+"Merei","mere1242","aust1307",0.55,0.51
+"Minigir","mini1251","aust1307",0.22,0.65
+"Modern Greek","mode1248","indo1319",0.67,0.72
+"Moksha","moks1248","ural1272",0.58,0.59
+"Mwotlap","motl1237","aust1307",0.3,0.52
+"Mpade","mpad1242","afro1255",0.31,0.28
+"Mualang","mual1241","aust1307",0.16,0.53
+"Mundang","mund1325","atla1278",0.45,0.68
+"Mwaghavul","mwag1236","afro1255",0.35,0.51
+"Mwani","mwan1247","atla1278",0.24,0.85
+"Nanai","nana1257","tung1282",0.35,0.59
+"Navajo","nava1243","atha1245",0.3,0.78
+"Tundra Nenets","nene1249","ural1272",0.5,0.74
+"Ngalkbun","ngal1292","gunw1250",0.45,0.74
+"Nocte Naga","noct1238","sino1245",0.2,0.55
+"Noon","noon1242","atla1278",0.52,0.77
+"Northern Uzbek","nort2690","turk1311",0.42,0.7
+"North Azerbaijani","nort2697","turk1311",0.42,0.7
+"Northern Qiang","nort2722","sino1245",0.58,0.65
+"Northern Qiandong Miao","nort2747","hmon1336",0.05,0.45
+"North Slavey","nort2942","atha1245",0.24,0.87
+"Turkish","nucl1301","turk1311",0.42,0.76
+"Georgian","nucl1302","kart1248",0.32,0.76
+"Kannada","nucl1305","drav1251",0.38,0.71
+"Nyahkur","nyah1250","aust1305",0.03,0.61
+"Oksapmin","oksa1245","nucl1709",0.32,0.8
+"Onondaga","onon1246","iroq1247",0.36,0.92
+"Odia","oriy1255","indo1319",0.48,0.78
+"Ottawa","otta1242","algi1248",0.34,0.85
+"Pa-Hng","pahn1237","hmon1336",0.03,0.42
+"Pangasinan","pang1290","aust1307",0.22,0.49
+"Eastern Panjabi","panj1256","indo1319",0.43,0.74
+"Paulohi","paul1238","aust1307",0.36,0.64
+"Pela","pela1242","sino1245",0.08,0.45
+"Pendau","pend1242","aust1307",0.28,0.69
+"Pilagá","pila1245","guai1249",0.32,0.52
+"Vaeakau-Taumako","pile1238","aust1307",0.45,0.56
+"Polish","poli1260","indo1319",0.45,0.89
+"Popti'","popt1235","maya1287",0.39,0.82
+"Purik-Sham-Nubra","puri1258","sino1245",0.58,0.68
+"Q'anjob'al","qanj1241","maya1287",0.29,0.78
+"Quiotepec Chinantec","quio1240","otom1299",0.21,0.65
+"Rukai","ruka1240","aust1307",0.28,0.79
+"Runga","rung1258","maba1274",0.4,0.72
+"Russian","russ1263","indo1319",0.62,0.68
+"Russia Buriat","russ1264","mong1349",0.45,0.76
+"Saaroa","saar1237","aust1307",0.23,0.48
+"Saisiyat","sais1237","aust1307",0.25,0.7
+"Samoan","samo1305","aust1307",0.45,0.59
+"Seimat","seim1238","aust1307",0.19,0.55
+"Selkup","selk1253","ural1272",0.48,0.8
+"Semelai","seme1247","aust1305",0.33,0.57
+"Shabo","shab1252","",0.67,0.81
+"Shoshoni","shos1248","utoa1244",0.4,0.85
+"Northern Jinghpaw","sing1264","sino1245",0.25,0.44
+"Skolt Saami","skol1241","ural1272",0.38,0.55
+"South Saami","sout2674","ural1272",0.48,0.45
+"Southern Qiang","sout2728","sino1245",0.65,0.64
+"Southern Sotho","sout2807","atla1278",0.44,0.76
+"South Efate","sout2856","aust1307",0.55,0.57
+"Nahavaq","sout2857","aust1307",0.32,0.57
+"Southern Haida","sout2956","haid1248",0.48,0.7
+"South Slavey","sout2959","atha1245",0.24,0.87
+"French","stan1290","indo1319",0.5,0.7
+"English","stan1293","indo1319",0.43,0.65
+"Sunwar","sunw1242","sino1245",0.45,0.63
+"Supyire Senoufo","supy1237","atla1278",0.41,0.57
+"Tabaru","taba1263","nort2923",0.31,0.5
+"Tahitian","tahi1242","aust1307",0.43,0.46
+"Takelma","take1257","",0.15,0.85
+"Tamasheq","tama1365","afro1255",0.52,0.79
+"Tamil","tami1289","drav1251",0.38,0.65
+"Tausug","taus1251","aust1307",0.28,0.71
+"Thakali","thak1245","sino1245",0.32,0.52
+"Tibetan","tibe1272","sino1245",0.13,0.65
+"Timne","timn1235","atla1278",0.64,0.79
+"Tiri-Mea","tiri1258","aust1307",0.35,0.46
+"To'abaita","toab1237","aust1307",0.22,0.65
+"Tohono O'odham","toho1245","utoa1244",0.38,0.74
+"Tojolabal","tojo1241","maya1287",0.38,0.64
+"Salka-Tsishingini","tsis1238","atla1278",0.41,0.74
+"Tutuba","tutu1241","aust1307",0.22,0.52
+"Udihe","udih1248","tung1282",0.4,0.82
+"Ugaritic","ugar1238","afro1255",0.49,0.76
+"Ulithian","ulit1238","aust1307",0.2,0.75
+"Unua","unua1237","aust1307",0.17,0.54
+"Vera'a","vera1241","aust1307",0.48,0.38
+"Vurës","vure1239","aust1307",0.15,0.38
+"Waima","waim1251","aust1307",0.21,0.8
+"Waiwai","waiw1244","cari1283",0.2,0.7
+"East Uvean","wall1257","aust1307",0.2,0.59
+"Wambule","wamb1257","sino1245",0.54,0.71
+"Anta-Komnzo-Wára-Wérè-Kémä","wara1294","more1255",0.63,0.7
+"Wari'","wari1268","chap1271",0.26,0.55
+"Wawa","wawa1246","atla1278",0.38,0.7
+"Western Lawa","west2396","aust1305",0.08,0.52
+"West Uvean","west2516","aust1307",0.35,0.59
+"Western Fijian","west2519","aust1307",0.32,0.72
+"Akateko","west2635","maya1287",0.47,0.83
+"Woi","woii1237","aust1307",0.17,0.51
+"Wu Chinese","wuch1236","sino1245",0.13,0.32
+"Wusa Nasu","wusa1235","sino1245",0.03,0.42
+"Xamtanga","xamt1239","afro1255",0.65,0.74
+"Xârâcùù","xara1244","aust1307",0.33,0.54
+"Yakan","yaka1277","aust1307",0.4,0.59
+"Sakha","yaku1245","turk1311",0.35,0.76
+"Yemsa","yems1235","gong1255",0.66,0.72
+"Yogad","yoga1237","aust1307",0.12,0.74
+"Northern Yokuts","yoku1256","yoku1255",0.45,0.7
+"Youle Jinuo","youl1235","sino1245",0.13,0.68
+"Younuo Bunu","youn1235","hmon1336",0.05,0.42
+"Yucatec Maya","yuca1254","maya1287",0.3,0.8
