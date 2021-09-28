@@ -1,9 +1,0 @@
-#!/bin/sh
-#SBATCH --job-name bayestraits
-#SBATCH --get-user-env
-#SBATCH --output run.%j.log
-#SBATCH --mem 4G
-#SBATCH --cpus-per-task 1
-
-BayesTraitsV3 posterior.trees features_Nom_words_Verbs.txt < features_Nom_words_Verbs.independent.cmd
-
