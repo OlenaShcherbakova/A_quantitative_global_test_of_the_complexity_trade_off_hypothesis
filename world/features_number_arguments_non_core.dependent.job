@@ -1,0 +1,9 @@
+#!/bin/sh
+#SBATCH --job-name bayestraits
+#SBATCH --get-user-env
+#SBATCH --output run.%j.log
+#SBATCH --mem 4G
+#SBATCH --cpus-per-task 1
+
+BayesTraitsV3 posterior.trees features_number_arguments_non_core.txt < features_number_arguments_non_core.dependent.cmd
+
