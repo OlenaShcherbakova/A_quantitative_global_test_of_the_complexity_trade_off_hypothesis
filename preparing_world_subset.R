@@ -5,7 +5,7 @@ source("library.R")
 gb <- load_data("data/GB.tsv")
 taxa <- read.csv("data/phylogenies/world/taxa.csv") #loading ASJP file (v. 17)
 gb$taxon <- taxa$taxon[match(gb$Glottocode, taxa$glottocode)]
-language_glottolog <- read.csv("languages_glottolog.csv", header=TRUE)[c("ID", "Family_ID", "Latitude", "Longitude", "Name")]
+language_glottolog <- read.csv("data/languages_glottolog.csv", header=TRUE)[c("ID", "Family_ID", "Latitude", "Longitude", "Name")]
 
 # merge datasets
 gb_world_subset <- merge(gb, language_glottolog, by.x="Glottocode", by.y="ID")

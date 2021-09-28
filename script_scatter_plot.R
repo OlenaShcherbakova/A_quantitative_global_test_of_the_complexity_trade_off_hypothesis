@@ -1,6 +1,6 @@
 source('library.R')
 
-languages_glottolog <- read.csv("languages_glottolog.csv", header=TRUE)
+languages_glottolog <- read.csv("data/languages_glottolog.csv", header=TRUE)
 gb <- load_data()
 data <- merge(gb, languages_glottolog)
 
