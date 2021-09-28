@@ -5,22 +5,12 @@ source('library.R')
 gb <- load_data()
 taxa <- read.csv("data/phylogenies/world/taxa.csv") #loading ASJP file (v. 17)
 gb$taxon <- taxa$taxon[match(gb$Glottocode, taxa$glottocode)]
-language_glottolog <- read.csv("languages_glottolog.csv")
+language_glottolog <- read.csv("data/languages_glottolog.csv")
 
 # merge datasets
 gb.subset <- merge(gb, language_glottolog[c("Glottocode", "Family_ID", "Latitude", "Longitude")])
 gb.subset <- subset(x = gb.subset, select = c("taxon", "Glottocode", "Family_ID", "Nominal_words_complexity", "Verbal_complexity"))
 gb.subset <- gb.subset[complete.cases(gb.subset),]
-
-#for later double checking if languages of the same family are assigned correctly, i.e. to the same clade
-gb.subset %>% 
-#  mutate(fam = as.numeric(if_else(Family_ID == "indo1319", "1", "0"))) %>%
-  mutate(fam = as.numeric(if_else(Family_ID == "aust1307", "1", "0"))) -> gb.subset
-
-
-gb.subset$fam <- ifelse(gb.subset$Family_ID == 'aust1307', 'Austronesian',
-                  ifelse(gb.subset$Family_ID == 'indo1319', 'Indo-European',
-                         ifelse(gb.subset$Family_ID == 'sino1245', 'Sino-Tibetan', 'other')))
 
 #load tree
 TREEFILE <- "data/phylogenies/world/"
