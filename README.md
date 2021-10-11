@@ -1,4 +1,4 @@
-# Code accompanying the paper *Coevolution of nominal and verbal coding* by Olena Shcherbakova, Volker Gast, Damián E. Blasi‬, Hedvig Skirgård, Russell D. Gray, and Simon J. Greenhill
+# Code accompanying the paper *A quantitative global test of the complexity trade-off hypothesis* by Olena Shcherbakova, Volker Gast, Damián E. Blasi‬, Hedvig Skirgård, Russell D. Gray, and Simon J. Greenhill
 
 **Overview of the files:**
 
