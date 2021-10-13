@@ -5,7 +5,7 @@
 Input files can be found in the “data” folder:
  - GB.tsv: the list of 302 Grambank languages with computed metric scores and with values for each Grambank feature
  - languages_glottolog.csv stems from Glottolog 4.4 and offers information on languages, such as language family (Family_ID), Latitude, and Longitude 
- - folder “phylogenies” contains 5 folders with respective phylogenies with taxa and posterior.trees files in each
+ - folder “phylogenies” contains 5 folders with respective phylogenies with taxa and posterior.trees files in each. These files were obtained from DPlace (Kirby et al. 2016) repository: https://github.com/D-PLACE/dplace-data.
 
 Files within “results_bayestraits” folder contain the input and output files for analyses carried out within BayesTraits .
 
@@ -28,3 +28,6 @@ Figure- and table-generating scripts:
  - script_histograms_set_plot.R (Figure A in Supplementary Materials)
  - script_values_table.R runs the number of scripts that read and summarize the files from BayesTraits analyses output (alphas_distribution.R, sigmas_distribution.R, correlation_distribution.R, Marginal_Likelihoods_BF.R) to generate Table D and a heatmap with interdomain correlations on the global tree (Figure 5)
  - measuring_phylo_signal.R generates Table C with two measures of phylogenetic signal for nominal and verbal scores across phylogenies
+
+References
+Kirby, Kathryn R., Russell D. Gray, Simon J. Greenhill, Fiona M. Jordan, Stephanie Gomes-Ng, Hans-Jörg Bibiko, Damián E. Blasi, Carlos A. Botero, Claire Bowern, Carol R. Ember, Dan Leehr, Bobbi S. Low, Joe McCarter, William Divale & Michael C. Gavinet. D-PLACE: A global database of cultural, linguistic and environmental diversity. PloS one 11.7 (2016): e0158391.
