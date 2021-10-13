@@ -31,4 +31,4 @@ Figure- and table-generating scripts:
 
 References
 
-Kirby, Kathryn R., Russell D. Gray, Simon J. Greenhill, Fiona M. Jordan, Stephanie Gomes-Ng, Hans-Jörg Bibiko, Damián E. Blasi, Carlos A. Botero, Claire Bowern, Carol R. Ember, Dan Leehr, Bobbi S. Low, Joe McCarter, William Divale & Michael C. Gavinet. D-PLACE: A global database of cultural, linguistic and environmental diversity. PloS one 11.7 (2016): e0158391.
+Kirby, Kathryn R., Russell D. Gray, Simon J. Greenhill, Fiona M. Jordan, Stephanie Gomes-Ng, Hans-Jörg Bibiko, Damián E. Blasi, Carlos A. Botero, Claire Bowern, Carol R. Ember, Dan Leehr, Bobbi S. Low, Joe McCarter, William Divale & Michael C. Gavinet. D-PLACE: A global database of cultural, linguistic and environmental diversity. *PloS one* 11.7 (2016): e0158391.
