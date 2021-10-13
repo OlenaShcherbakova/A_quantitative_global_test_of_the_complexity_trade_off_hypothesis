@@ -30,4 +30,5 @@ Figure- and table-generating scripts:
  - measuring_phylo_signal.R generates Table C with two measures of phylogenetic signal for nominal and verbal scores across phylogenies
 
 References
+
 Kirby, Kathryn R., Russell D. Gray, Simon J. Greenhill, Fiona M. Jordan, Stephanie Gomes-Ng, Hans-Jörg Bibiko, Damián E. Blasi, Carlos A. Botero, Claire Bowern, Carol R. Ember, Dan Leehr, Bobbi S. Low, Joe McCarter, William Divale & Michael C. Gavinet. D-PLACE: A global database of cultural, linguistic and environmental diversity. PloS one 11.7 (2016): e0158391.
